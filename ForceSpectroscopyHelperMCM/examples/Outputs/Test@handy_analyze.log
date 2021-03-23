@@ -1,0 +1,3 @@
+normalize_min: [-15.104894]
+normalize_delta: [15.16804]
+Test@handy_analyze@Epoch: 1 cost= 8.6788025 a= 0.029020775 b= 0.94980764 c= 1.0454386 d= 1.0361383 z_0= 0 z_e= 19 bias= 0
